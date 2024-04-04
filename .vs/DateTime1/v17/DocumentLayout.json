@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\DateTime1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{093D2712-9D7C-48E0-9397-0C04A8901307}|DateTime1\\DateTime1.csproj|f:\\dotnetprogramss\\datetime1\\datetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093D2712-9D7C-48E0-9397-0C04A8901307}|DateTime1\\DateTime1.csproj|solutionrelative:datetime1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{093D2712-9D7C-48E0-9397-0C04A8901307}|DateTime1\\DateTime1.csproj|F:\\DotNetProgramss\\DateTime1\\datetime1\\datetime11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{093D2712-9D7C-48E0-9397-0C04A8901307}|DateTime1\\DateTime1.csproj|solutionrelative:datetime1\\datetime11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateTime11.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\DateTime1\\DateTime1\\DateTime11.cs",
+              "RelativeDocumentMoniker": "DateTime1\\DateTime11.cs",
+              "ToolTip": "F:\\DotNetProgramss\\DateTime1\\DateTime1\\DateTime11.cs",
+              "RelativeToolTip": "DateTime1\\DateTime11.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:09:43.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\DateTime1\\DateTime1\\Program.cs",
+              "RelativeDocumentMoniker": "DateTime1\\Program.cs",
+              "ToolTip": "F:\\DotNetProgramss\\DateTime1\\DateTime1\\Program.cs",
+              "RelativeToolTip": "DateTime1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T12:08:36.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
